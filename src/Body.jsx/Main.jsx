@@ -4,9 +4,9 @@ const Main=()=>{
 
         {/* Hero */}
              <div class="header">
-        <div class="img bg-[url('img/home-hero.jpg')] bg-cover bg-center h-screen w-full">
-          <h3 class="text-white text-center pt-[160px] text-6xl font-light font-[Roboto]">Look <span className="text-gray-500">&</span> Feel Modern</h3>
-          <p class="text-white text-center  pt-6 font-thin text-5xl">Our Product</p>
+        <div class="img bg-[url('img/header.jpeg')] bg-cover bg-center h-screen w-full">
+          <h3 class="text-black text-center pt-[160px] text-6xl font-light font-[Roboto]">Look <span className="text-gray-500">&</span> Feel Modern</h3>
+          <p class="text-black text-center  pt-6 font-thin text-5xl">Our Product</p>
         </div>
       </div>
        {/* End Hero */}
